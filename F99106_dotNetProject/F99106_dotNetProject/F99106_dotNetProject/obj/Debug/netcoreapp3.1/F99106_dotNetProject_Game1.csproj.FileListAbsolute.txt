@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject_Game1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.Form1.resources
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject_Game1.Properties.Resources.resources
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject_Game1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject_Game1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject_Game1.AssemblyInfo.cs
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject_Game1.csproj.CoreCompileInputs.cache

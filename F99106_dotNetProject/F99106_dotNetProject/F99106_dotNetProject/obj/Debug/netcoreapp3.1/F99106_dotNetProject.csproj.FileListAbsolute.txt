@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\bin\Debug\netcoreapp3.1\F99106_dotNetProject.exe
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\bin\Debug\netcoreapp3.1\F99106_dotNetProject.deps.json
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\bin\Debug\netcoreapp3.1\F99106_dotNetProject.runtimeconfig.json
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\bin\Debug\netcoreapp3.1\F99106_dotNetProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\bin\Debug\netcoreapp3.1\F99106_dotNetProject.dll
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\bin\Debug\netcoreapp3.1\F99106_dotNetProject.pdb
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.Properties.Resources.resources
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.AssemblyInfo.cs
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.dll
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.pdb
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.genruntimeconfig.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNetProject\obj\Debug\netcoreapp3.1\F99106_dotNetProject.SaveTheMask.resources

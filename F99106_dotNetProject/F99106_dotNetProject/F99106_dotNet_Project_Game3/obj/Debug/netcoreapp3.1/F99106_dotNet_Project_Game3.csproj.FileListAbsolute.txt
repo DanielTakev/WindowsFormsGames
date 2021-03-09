@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\bin\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.exe
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\bin\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.deps.json
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\bin\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.runtimeconfig.json
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\bin\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.runtimeconfig.dev.json
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\bin\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.dll
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\bin\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.pdb
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.AssemblyInfo.cs
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.dll
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.pdb
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.genruntimeconfig.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.CounterStrike.resources
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.Properties.Resources.resources
+C:\Users\User\source\repos\F99106_dotNetProject\F99106_dotNet_Project_Game3\obj\Debug\netcoreapp3.1\F99106_dotNet_Project_Game3.csproj.GenerateResource.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "F99106_dotNet_Project_Game3/1.0.0": {
+        "runtime": {
+          "F99106_dotNet_Project_Game3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F99106_dotNet_Project_Game3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
